@@ -3,21 +3,20 @@
 ### Course Title:
 Web Application Development
 
-### Assignment Date:  
-(Month Day, Year)
+### Assignment Due Date:  
+(December 4, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Richard Morrow)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we make an ingredients list and instructions list dynamically fade in on the HTML document.  )
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://theironchef311.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to add interactivity to the HTML page using javascript and jquery.)
+2. (How to create event listeners.)
+3. (Many different jquery methods.)
 
